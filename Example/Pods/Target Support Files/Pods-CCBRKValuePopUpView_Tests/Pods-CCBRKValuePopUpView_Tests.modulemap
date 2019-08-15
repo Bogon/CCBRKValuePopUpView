@@ -1,0 +1,6 @@
+framework module Pods_CCBRKValuePopUpView_Tests {
+  umbrella header "Pods-CCBRKValuePopUpView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

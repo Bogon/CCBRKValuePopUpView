@@ -1,0 +1,16 @@
+PODS:
+  - CCBRKValuePopUpView (0.1.0)
+
+DEPENDENCIES:
+  - CCBRKValuePopUpView (from `../`)
+
+EXTERNAL SOURCES:
+  CCBRKValuePopUpView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCBRKValuePopUpView: c0c1177ea6b869a378af285be8e470b248ff62e0
+
+PODFILE CHECKSUM: e2d49635a34bc671f1112abd148d12af8a8d11a4
+
+COCOAPODS: 1.7.4
